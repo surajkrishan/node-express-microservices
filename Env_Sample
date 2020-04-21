@@ -1,0 +1,4 @@
+DB_USERNAME=root
+DB_PASSWORD=wipro@123
+DB_DATABASE=testdb
+DB_HOST=localhost
